@@ -1,6 +1,7 @@
 # sunbird-portal
 
-Updating readme release-1.7.2
+Updating readme release-1.7.2 
+update 2
 [![Build Status](https://travis-ci.org/project-sunbird/sunbird-portal.svg?branch=master)](https://travis-ci.org/project-sunbird/sunbird-portal)
 
 ## What is Sunbird?
